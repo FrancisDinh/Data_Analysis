@@ -1,0 +1,11 @@
+GD4:
+in order to know why it is slow:
++ check does the system wait for by TOP SQL TOP OBJECT
++ check command
+- Execution plan
+- Time complexity
+- Use index: via binary tree, having global/local 
+Check more on: partition table to manage data better
+
+
+

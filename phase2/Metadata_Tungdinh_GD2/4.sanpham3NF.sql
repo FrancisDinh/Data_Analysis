@@ -1,0 +1,2 @@
+insert into san_pham_3NF (san_pham, camera_truoc, ram, the_nho, dung_luong_pin, man_hinh_rong, don_gia)
+select distinct san_pham, camera_truoc, ram, the_nho, dung_luong_pin, man_hinh_rong, don_gia from du_lieu_ban_hang_backup

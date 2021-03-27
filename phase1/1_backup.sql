@@ -1,0 +1,2 @@
+select * into du_lieu_ban_hang_backup
+from du_lieu_ban_hang

@@ -1,0 +1,1 @@
+DELETE FROM du_lieu_ban_hang WHERE khu_vuc IS NULL

@@ -1,0 +1,15 @@
+create table du_lieu_ban_hang_1NF (
+    ID int identity(1,1) primary key, 
+    ngay_ban date, 
+    san_pham nvarchar(100), 
+    khu_vuc nvarchar(100), 
+    so_cuoc_goi int, 
+    thoi_gian_trung_binh int, 
+    so_luong_ban int,
+    camera_truoc int, 
+    ram int,
+    the_nho int, 
+    dung_luong_pin int, 
+    man_hinh_rong float, 
+    don_gia bigint,
+)

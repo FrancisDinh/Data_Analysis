@@ -1,0 +1,1 @@
+UPDATE du_lieu_ban_hang_backup SET khu_vuc = N'Bắc Ninh' WHERE khu_vuc = N'bắc ninh' COLLATE sql_latin1_general_cp1_cs_as
