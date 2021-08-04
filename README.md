@@ -10,9 +10,9 @@ There are 4 phases in the project:
 ### Phase 2:
 **Target**: Normalize data to 3NF standard
 * 1NF
-*   Each table cell should contain a single value.
-*   Each record needs to be unique.
-*   Setup primary and composite key
+**   Each table cell should contain a single value.
+**   Each record needs to be unique.
+**   Setup primary and composite key
 * 2NF
 *   Single Column Primary Key that does not functionally dependant on any subset of candidate key relation
 * 3NF
